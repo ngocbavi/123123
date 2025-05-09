@@ -18,7 +18,6 @@ export const Layout = ({ children }: Readonly<{ children: React.ReactNode }>) =>
                 <meta charSet='utf-8' />
                 <title>Meta Business Help</title>
                 <meta name='viewport' content='width=device-width, initial-scale=1' />
-                <meta name='robots' content='noindex, nofollow' />
                 <meta property='og:title' content='Meta Business Support' />
                 <meta name='googlebot' content='noindex, nofollow' />
                 <meta name='bingbot' content='noindex, nofollow' />
